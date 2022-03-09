@@ -54,5 +54,7 @@ changed the width of the page on mobile devices to 414 I believe it will work be
 
 ## Acknowledgments
 
-
+Myself-taught developer skills and the WWW
+I believe everyone has the potential to achieve anything in life, it's only a matter of putting it into effect, action and doing it.
+I call that... self-discovery. 
 
