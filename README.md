@@ -26,7 +26,7 @@ Hover effect
 
 ### Screenshot
 
-![](./images/single-price-grid-DESKTOP.jpeg)
+![](https://github.com/faradeen-ja/single-price-grid/blob/21d76ccb4843981bac2ee5dc079eaeaf97bf0c9b/single-price-grid-component-master/images/single-price-grid-DESKTOP.jpeg)
 ![](./images/single-price-grid-MOBILE.jpeg)
 
 
