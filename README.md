@@ -12,6 +12,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
+  - [Acknowlegments](#Acknowledgments)
   - [Author](#author)
 
 
